@@ -4,10 +4,13 @@ This project aimed to explore the concept of **inverse kinematics in video games
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2110651-d5e9-4380-96bf-747d6a4201b7"/>
   <img src="https://github.com/user-attachments/assets/e6cd8969-9076-45c6-882b-62061251dc58"/>
-  <img src="https://github.com/user-attachments/assets/362b9561-122c-41c1-b2ee-9c3e1c4790a0"/>
 </p>
 
 With this goal in mind, a [short tutorial](https://www.youtube.com/watch?v=vKiqs_h1WXM) was followed to implement a spider skeleton mesh connected to a **control rig which, through a network of blueprints, determines the next position for each leg, considering obstacles and terrains**, thus manifesting a procedural animation.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/362b9561-122c-41c1-b2ee-9c3e1c4790a0" width=500/>
+</p>
 
 ## **Source Files**
 The project's source files can be downloaded from this repository. To open the program using Unreal, simply clone the repository and open the project utilising the Unreal Engine v5.3.
