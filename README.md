@@ -6,7 +6,7 @@ This project aimed to explore the concept of **inverse kinematics in video games
   <img src="https://github.com/user-attachments/assets/e6cd8969-9076-45c6-882b-62061251dc58"/>
 </p>
 
-With this goal in mind, a [short tutorial](https://www.youtube.com/watch?v=vKiqs_h1WXM) was followed to implement a spider skeleton mesh connected to a **control rig which, through a network of blueprints, determines the next position for each leg, considering obstacles and terrains**, thus manifesting a procedural animation.
+With this goal in mind, a spider skeleton mesh was connected to a **control rig which, through a network of blueprints, determines the next position for each leg by following a procedure (logic) and a set of parameters, considering obstacles and terrain**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/362b9561-122c-41c1-b2ee-9c3e1c4790a0" width=500/>
@@ -48,5 +48,7 @@ To reduce the skeleton mesh's file size, a few settings were altered before this
 
 
 ## **Authors and Acknowledgements**
-This project was developed by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**.
+This project was developed by **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**, with inspiration from [short Youtube video](https://www.youtube.com/watch?v=vKiqs_h1WXM) by Lincoln Margison.
+
+[Spider's model](https://lincolnmargison.gumroad.com/l/usuxn) by Lincoln Margison.
  
